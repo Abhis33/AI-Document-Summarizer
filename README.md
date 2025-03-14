@@ -12,4 +12,4 @@ Choices of technology -
 
 ## Screenshots
 
-https://github.com/Abhis33/AI-Document-Summarizer/blob/main/screenshots/Screenshot%202025-03-09%20at%2010-01-16%20AI%20Document%20Summarizer.png?raw=true
+!["Summarizer Screenshot"](https://github.com/Abhis33/AI-Document-Summarizer/blob/main/screenshots/Screenshot%202025-03-09%20at%2010-01-16%20AI%20Document%20Summarizer.png?raw=true)
